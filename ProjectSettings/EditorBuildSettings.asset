@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/birthdayCardsAR.unity
+    guid: 5f8ee24e700bc4a2aab87de16df7d69c
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: c048a8dc93a6f49259759b4b3fe50e66, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d4e18a74e871b44d19646aa3f06d8a54, type: 2}
