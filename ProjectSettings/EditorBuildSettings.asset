@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c68cc4b23a24e4229a034957c98d78b1
+  - enabled: 1
     path: Assets/Scenes/birthdayCardsAR.unity
     guid: 5f8ee24e700bc4a2aab87de16df7d69c
   m_configObjects:
